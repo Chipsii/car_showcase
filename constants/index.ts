@@ -21,6 +21,7 @@ export const manufacturers = [
     "Jaguar",
     "Jeep",
     "Kia",
+    "Koenigsegg",
     "Lamborghini",
     "Land Rover",
     "Lexus",
