@@ -44,7 +44,7 @@ const CarCard = ({ car }: CarCardProps) => {
       </div>
 
       <div className="relative flex w-full mt-2">
-        <div className="flex group-hover:invisible w-full justify-between text-gray">
+        <div className="flex group-hover:invisible w-full justify-between text-gray-500">
           <div className="flex flex-col justify-center items-center gap-2">
             <Image
               src="/steering-wheel.svg"
